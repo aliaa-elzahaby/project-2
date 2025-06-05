@@ -1,4 +1,4 @@
-# AWS S3 Static Website Hosting with Terraform
+# Manara Project 2
 
 This Terraform project provisions an **Amazon S3 bucket** configured for **static website hosting**, including:
 
