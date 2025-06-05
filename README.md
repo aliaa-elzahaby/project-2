@@ -7,6 +7,14 @@ This Terraform project provisions an **Amazon S3 bucket** configured for **stati
 - Optional versioning and ownership control
 - Policy that allows global read access to site files
 
+## 📸 Screenshots
+
+### ✅ Deployed Static Website Example
+
+| **Index**                        | **Error**                        |
+| -------------------------------- | -------------------------------- |
+| ![index](./screenshot/index.png) | ![error](./screenshot/error.png) |
+
 ## 📦 What It Does
 
 - Creates an S3 bucket named 
